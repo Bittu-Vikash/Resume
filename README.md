@@ -51,15 +51,20 @@ Tableau Public : https://public.tableau.com/views/WorldTemperature_1762793113205
   
 ### EDUCATION :  
   
-Certification in Data Science
-Ducat | Expected Completion: December 2025
+Certification in Data Science  
+Ducat | Expected Completion: December 2025  
 • Coursework includes Python, Excel, Tableau, PowerBI, SQL, Machine Learning, and Data Visualization.  
-  
-Bachelor of Arts in Psychology
-Patna University, India | Graduated: 2022
-• Studied advanced courses in Statistics, Probability, and Research Methodology during final year.
-• Conducted data-driven research projects analyzing stress level among Patna University employees. Paper Title “The level of stress among Non-Teaching staff of Patna University”.
-GitHub Repo :  https://github.com/Bittu-Vikash/Level-fo-Stress-Among-Non-Teaching-Staff-of-Patna-University
+
+Certification in Data Analysis  
+Udemy | Completion: January 2025  
+• Coursework includes : Excel, Tableau, PowerBI, SQL and Data Visualization.  
+Credential URL : https://www.udemy.com/certificate/UC-ba50e8f8-4d8b-42dc-8f7b-cbb9461d9c36/  
+
+Bachelor of Arts in Psychology  
+Patna University, India | Graduated: 2022  
+• Studied advanced courses in Statistics, Probability, and Research Methodology during final year.  
+• Conducted data-driven research projects analyzing stress level among Patna University employees. Paper Title “The level of stress among Non-Teaching staff of Patna University”.  
+GitHub Repo :  https://github.com/Bittu-Vikash/Level-fo-Stress-Among-Non-Teaching-Staff-of-Patna-University  
 
 <!-- 🚀 END OF RESUME -->
 
